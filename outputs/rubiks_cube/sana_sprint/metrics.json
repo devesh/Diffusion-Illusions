@@ -1,0 +1,10 @@
+{
+  "method": "sana_sprint_zeroshot",
+  "task": "rubiks_cube",
+  "steps": 4,
+  "size": 768,
+  "pixel_reconcile": true,
+  "load_s": 9.508,
+  "gen_s": 5.459,
+  "out_dir": "/tmp/run_rubiks_cube_sana_sprint"
+}

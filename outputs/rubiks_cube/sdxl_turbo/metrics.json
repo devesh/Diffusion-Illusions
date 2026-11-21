@@ -1,0 +1,10 @@
+{
+  "method": "sdxl_turbo_zeroshot",
+  "task": "rubiks_cube",
+  "steps": 4,
+  "size": 576,
+  "pixel_reconcile": true,
+  "load_s": 11.307,
+  "gen_s": 3.477,
+  "out_dir": "/tmp/run_rubiks_cube_sdxl_turbo"
+}

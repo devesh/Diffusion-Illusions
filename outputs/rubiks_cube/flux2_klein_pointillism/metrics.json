@@ -1,0 +1,28 @@
+{
+  "method": "flux2_klein_zeroshot",
+  "task": "rubiks_cube",
+  "steps": 6,
+  "size": 576,
+  "pixel_reconcile": true,
+  "load_s": 9.062,
+  "gen_s": 5.699,
+  "out_dir": "/tmp/run_rubiks_cube_flux2_klein",
+  "scrambled_perm": [
+    2,
+    4,
+    3,
+    1,
+    5,
+    0
+  ],
+  "scrambled_face_prompts": {
+    "U": "vibrant pointillism painting of a Bengal tiger portrait",
+    "L": "vibrant pointillism painting of a vintage red steam train",
+    "F": "vibrant pointillism painting of a lighthouse by crashing ocean waves",
+    "R": "vibrant pointillism painting of an owl perched in autumn woods",
+    "B": "vibrant pointillism painting of a butterfly on colorful flowers",
+    "D": "vibrant pointillism painting of a golden retriever dog portrait"
+  },
+  "match_mse_before": 0.30229,
+  "match_mse_after": 0.27435
+}

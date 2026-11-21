@@ -1,0 +1,11 @@
+{
+  "method": "fast_sds_taesd_dtl_none",
+  "task": "rubiks_cube",
+  "sds_load_s": 67.555,
+  "sds_iters": 350,
+  "sds_s": 41.337,
+  "dtl_load_s": 0.0,
+  "dtl_s": 0.0,
+  "total_opt_s": 41.337,
+  "out_dir": "/tmp/run_rubiks_cube_fast_sds_dtl"
+}

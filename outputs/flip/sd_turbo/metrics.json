@@ -1,0 +1,9 @@
+{
+  "method": "sd_turbo_zeroshot",
+  "task": "flip",
+  "steps": 4,
+  "size": 512,
+  "load_s": 34.312,
+  "gen_s": 2.524,
+  "out_dir": "/tmp/run_flip_sd_turbo"
+}

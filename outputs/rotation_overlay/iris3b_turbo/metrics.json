@@ -1,0 +1,9 @@
+{
+  "method": "iris3b_turbo_zeroshot",
+  "task": "rotation_overlay",
+  "steps": 4,
+  "size": 1024,
+  "load_s": 53.143,
+  "gen_s": 5.255,
+  "out_dir": "/tmp/run_rotation_overlay_iris3b_turbo"
+}

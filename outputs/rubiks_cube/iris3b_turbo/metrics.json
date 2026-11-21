@@ -1,0 +1,9 @@
+{
+  "method": "iris3b_turbo_zeroshot",
+  "task": "rubiks_cube",
+  "steps": 4,
+  "size": 768,
+  "load_s": 13.449,
+  "gen_s": 6.276,
+  "out_dir": "/tmp/run_rubiks_cube_iris3b_turbo"
+}

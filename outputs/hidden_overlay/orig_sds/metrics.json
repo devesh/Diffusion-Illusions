@@ -1,0 +1,15 @@
+{
+  "method": "orig_sd14_sds",
+  "task": "hidden_overlay",
+  "load_s": 8.583,
+  "num_iters": 2000,
+  "total_s": 166.188,
+  "ms_per_iter": 83.09,
+  "est_10k_iters_s": 830.94,
+  "snapshots_s": {
+    "500": 42.036,
+    "1000": 83.363,
+    "2000": 166.034
+  },
+  "out_dir": "/tmp/run_hidden_overlay_orig_sds"
+}

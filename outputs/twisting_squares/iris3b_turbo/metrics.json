@@ -1,0 +1,9 @@
+{
+  "method": "iris3b_turbo_zeroshot",
+  "task": "twisting_squares",
+  "steps": 4,
+  "size": 1024,
+  "load_s": 12.903,
+  "gen_s": 2.227,
+  "out_dir": "/tmp/run_twisting_squares_iris3b_turbo"
+}

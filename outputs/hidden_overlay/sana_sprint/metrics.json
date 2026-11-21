@@ -1,0 +1,9 @@
+{
+  "method": "sana_sprint_zeroshot",
+  "task": "hidden_overlay",
+  "steps": 2,
+  "size": 1024,
+  "load_s": 33.44,
+  "gen_s": 3.626,
+  "out_dir": "/tmp/run_hidden_overlay_sana_sprint"
+}

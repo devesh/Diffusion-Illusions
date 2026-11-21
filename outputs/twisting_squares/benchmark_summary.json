@@ -1,0 +1,24 @@
+[
+  {
+    "method": "sana_sprint_zeroshot",
+    "task": "twisting_squares",
+    "steps": 2,
+    "size": 1024,
+    "pixel_reconcile": true,
+    "load_s": 7.933,
+    "gen_s": 2.155,
+    "out_dir": "/tmp/run_twisting_squares_sana_sprint",
+    "saved_dir": "/home/devesh/projects/ambigram/outputs/twisting_squares/sana_sprint"
+  },
+  {
+    "method": "flux2_klein_zeroshot",
+    "task": "twisting_squares",
+    "steps": 4,
+    "size": 512,
+    "pixel_reconcile": true,
+    "load_s": 19.791,
+    "gen_s": 2.402,
+    "out_dir": "/tmp/run_twisting_squares_flux2_klein",
+    "saved_dir": "/home/devesh/projects/ambigram/outputs/twisting_squares/flux2_klein"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "method": "hybrid_sana_sprint_fast_sds",
+  "task": "twisting_squares",
+  "init_gen_s": 2.608,
+  "init_steps": 2,
+  "sds_iters": 250,
+  "sds_s": 4.86,
+  "total_opt_s": 7.468,
+  "out_dir": "/tmp/run_twisting_squares_hybrid_sana_sds"
+}

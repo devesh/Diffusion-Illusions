@@ -1,0 +1,10 @@
+{
+  "method": "flux2_klein_zeroshot",
+  "task": "rubiks_cube",
+  "steps": 8,
+  "size": 576,
+  "pixel_reconcile": true,
+  "load_s": 13.36,
+  "gen_s": 7.082,
+  "out_dir": "/tmp/run_rubiks_cube_flux2_klein"
+}

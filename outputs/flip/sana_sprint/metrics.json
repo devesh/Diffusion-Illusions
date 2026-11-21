@@ -1,0 +1,10 @@
+{
+  "method": "sana_sprint_zeroshot",
+  "task": "flip",
+  "steps": 2,
+  "size": 1024,
+  "pixel_reconcile": false,
+  "load_s": 9.114,
+  "gen_s": 2.046,
+  "out_dir": "/tmp/run_flip_sana_sprint"
+}

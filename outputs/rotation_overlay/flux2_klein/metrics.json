@@ -1,0 +1,10 @@
+{
+  "method": "flux2_klein_zeroshot",
+  "task": "rotation_overlay",
+  "steps": 8,
+  "size": 512,
+  "pixel_reconcile": true,
+  "load_s": 11.842,
+  "gen_s": 4.161,
+  "out_dir": "/tmp/run_rotation_overlay_flux2_klein"
+}

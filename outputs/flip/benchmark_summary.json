@@ -1,0 +1,36 @@
+[
+  {
+    "method": "fast_sds_taesd_dtl_none",
+    "task": "flip",
+    "sds_load_s": 67.841,
+    "sds_iters": 350,
+    "sds_s": 8.933,
+    "dtl_load_s": 0.0,
+    "dtl_s": 0.0,
+    "total_opt_s": 8.933,
+    "out_dir": "/tmp/run_flip_fast_sds_dtl",
+    "saved_dir": "/home/devesh/projects/ambigram/outputs/flip/fast_sds_dtl"
+  },
+  {
+    "method": "sana_sprint_zeroshot",
+    "task": "flip",
+    "steps": 2,
+    "size": 1024,
+    "pixel_reconcile": false,
+    "load_s": 9.114,
+    "gen_s": 2.046,
+    "out_dir": "/tmp/run_flip_sana_sprint",
+    "saved_dir": "/home/devesh/projects/ambigram/outputs/flip/sana_sprint"
+  },
+  {
+    "method": "flux2_klein_zeroshot",
+    "task": "flip",
+    "steps": 4,
+    "size": 512,
+    "pixel_reconcile": false,
+    "load_s": 11.061,
+    "gen_s": 2.19,
+    "out_dir": "/tmp/run_flip_flux2_klein",
+    "saved_dir": "/home/devesh/projects/ambigram/outputs/flip/flux2_klein"
+  }
+]

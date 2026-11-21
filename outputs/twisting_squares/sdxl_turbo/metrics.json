@@ -1,0 +1,9 @@
+{
+  "method": "sdxl_turbo_zeroshot",
+  "task": "twisting_squares",
+  "steps": 4,
+  "size": 512,
+  "load_s": 12.767,
+  "gen_s": 2.106,
+  "out_dir": "/tmp/run_twisting_squares_sdxl_turbo"
+}

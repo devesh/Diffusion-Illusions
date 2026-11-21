@@ -1,0 +1,9 @@
+{
+  "method": "iris3b_turbo_zeroshot",
+  "task": "flip",
+  "steps": 4,
+  "size": 1024,
+  "load_s": 72.123,
+  "gen_s": 5.115,
+  "out_dir": "/tmp/run_flip_iris3b_turbo"
+}

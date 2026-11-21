@@ -1,0 +1,11 @@
+{
+  "method": "fast_sds_taesd_dtl_sana_sprint",
+  "task": "twisting_squares",
+  "sds_load_s": 86.583,
+  "sds_iters": 350,
+  "sds_s": 9.315,
+  "dtl_load_s": 10.198,
+  "dtl_s": 4.466,
+  "total_opt_s": 13.782,
+  "out_dir": "/tmp/run_twisting_squares_fast_sds_dtl"
+}

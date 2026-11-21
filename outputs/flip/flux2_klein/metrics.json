@@ -1,0 +1,10 @@
+{
+  "method": "flux2_klein_zeroshot",
+  "task": "flip",
+  "steps": 4,
+  "size": 512,
+  "pixel_reconcile": false,
+  "load_s": 11.061,
+  "gen_s": 2.19,
+  "out_dir": "/tmp/run_flip_flux2_klein"
+}

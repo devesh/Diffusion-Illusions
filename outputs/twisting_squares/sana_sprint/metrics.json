@@ -1,0 +1,10 @@
+{
+  "method": "sana_sprint_zeroshot",
+  "task": "twisting_squares",
+  "steps": 2,
+  "size": 1024,
+  "pixel_reconcile": true,
+  "load_s": 7.933,
+  "gen_s": 2.155,
+  "out_dir": "/tmp/run_twisting_squares_sana_sprint"
+}

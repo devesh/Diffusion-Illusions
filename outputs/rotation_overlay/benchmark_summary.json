@@ -1,0 +1,50 @@
+[
+  {
+    "method": "orig_sd14_sds",
+    "task": "rotation_overlay",
+    "load_s": 7.862,
+    "num_iters": 2000,
+    "total_s": 165.104,
+    "ms_per_iter": 82.55,
+    "est_10k_iters_s": 825.52,
+    "snapshots_s": {
+      "500": 41.705,
+      "1000": 82.797,
+      "2000": 164.922
+    },
+    "out_dir": "/tmp/run_rotation_overlay_orig_sds",
+    "saved_dir": "/home/devesh/projects/ambigram/outputs/rotation_overlay/orig_sds"
+  },
+  {
+    "method": "fast_sds_taesd_dtl_sana_sprint",
+    "task": "rotation_overlay",
+    "sds_load_s": 91.703,
+    "sds_iters": 350,
+    "sds_s": 16.789,
+    "dtl_load_s": 13.28,
+    "dtl_s": 7.094,
+    "total_opt_s": 23.883,
+    "out_dir": "/tmp/run_rotation_overlay_fast_sds_dtl",
+    "saved_dir": "/home/devesh/projects/ambigram/outputs/rotation_overlay/fast_sds_dtl"
+  },
+  {
+    "method": "sd_turbo_zeroshot",
+    "task": "rotation_overlay",
+    "steps": 4,
+    "size": 512,
+    "load_s": 8.977,
+    "gen_s": 2.94,
+    "out_dir": "/tmp/run_rotation_overlay_sd_turbo",
+    "saved_dir": "/home/devesh/projects/ambigram/outputs/rotation_overlay/sd_turbo"
+  },
+  {
+    "method": "flux2_klein_zeroshot",
+    "task": "rotation_overlay",
+    "steps": 4,
+    "size": 512,
+    "load_s": 12.185,
+    "gen_s": 3.017,
+    "out_dir": "/tmp/run_rotation_overlay_flux2_klein",
+    "saved_dir": "/home/devesh/projects/ambigram/outputs/rotation_overlay/flux2_klein"
+  }
+]

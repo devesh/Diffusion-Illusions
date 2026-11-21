@@ -1,0 +1,9 @@
+{
+  "method": "sana_sprint_zeroshot",
+  "task": "rotation_overlay",
+  "steps": 2,
+  "size": 1024,
+  "load_s": 52.352,
+  "gen_s": 3.306,
+  "out_dir": "/tmp/run_rotation_overlay_sana_sprint"
+}

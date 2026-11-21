@@ -1,0 +1,15 @@
+{
+  "method": "orig_sd14_sds",
+  "task": "twisting_squares",
+  "load_s": 3.736,
+  "num_iters": 2000,
+  "total_s": 165.02,
+  "ms_per_iter": 82.51,
+  "est_10k_iters_s": 825.1,
+  "snapshots_s": {
+    "500": 41.963,
+    "1000": 83.034,
+    "2000": 164.937
+  },
+  "out_dir": "/tmp/run_twisting_squares_orig_sds"
+}

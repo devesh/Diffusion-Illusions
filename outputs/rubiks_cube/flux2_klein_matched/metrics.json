@@ -1,0 +1,28 @@
+{
+  "method": "flux2_klein_zeroshot",
+  "task": "rubiks_cube",
+  "steps": 6,
+  "size": 576,
+  "pixel_reconcile": true,
+  "load_s": 8.951,
+  "gen_s": 5.647,
+  "out_dir": "/tmp/run_rubiks_cube_flux2_klein",
+  "scrambled_perm": [
+    5,
+    3,
+    4,
+    1,
+    0,
+    2
+  ],
+  "scrambled_face_prompts": {
+    "U": "vibrant oil painting of a butterfly on colorful flowers",
+    "L": "vibrant oil painting of a lighthouse by crashing ocean waves",
+    "F": "vibrant oil painting of a vintage red steam train",
+    "R": "vibrant oil painting of an owl perched in autumn woods",
+    "B": "vibrant oil painting of a golden retriever dog portrait",
+    "D": "vibrant oil painting of a Bengal tiger portrait"
+  },
+  "match_mse_before": 0.31464,
+  "match_mse_after": 0.27239
+}

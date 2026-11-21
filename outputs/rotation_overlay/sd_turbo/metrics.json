@@ -1,0 +1,9 @@
+{
+  "method": "sd_turbo_zeroshot",
+  "task": "rotation_overlay",
+  "steps": 4,
+  "size": 512,
+  "load_s": 8.977,
+  "gen_s": 2.94,
+  "out_dir": "/tmp/run_rotation_overlay_sd_turbo"
+}

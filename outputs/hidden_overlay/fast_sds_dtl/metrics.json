@@ -1,0 +1,11 @@
+{
+  "method": "fast_sds_taesd_dtl_sana_sprint",
+  "task": "hidden_overlay",
+  "sds_load_s": 85.004,
+  "sds_iters": 350,
+  "sds_s": 23.124,
+  "dtl_load_s": 33.293,
+  "dtl_s": 10.931,
+  "total_opt_s": 34.055,
+  "out_dir": "/tmp/run_hidden_overlay_fast_sds_dtl"
+}

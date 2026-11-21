@@ -1,0 +1,15 @@
+{
+  "method": "orig_sd14_sds",
+  "task": "flip",
+  "load_s": 17.13,
+  "num_iters": 2000,
+  "total_s": 164.824,
+  "ms_per_iter": 82.41,
+  "est_10k_iters_s": 824.12,
+  "snapshots_s": {
+    "500": 42.585,
+    "1000": 83.457,
+    "2000": 164.756
+  },
+  "out_dir": "/tmp/run_flip_orig_sds"
+}

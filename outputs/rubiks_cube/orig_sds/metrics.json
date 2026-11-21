@@ -1,0 +1,14 @@
+{
+  "method": "orig_sd14_sds",
+  "task": "rubiks_cube",
+  "load_s": 5.778,
+  "num_iters": 1000,
+  "total_s": 86.329,
+  "ms_per_iter": 86.33,
+  "est_10k_iters_s": 863.29,
+  "snapshots_s": {
+    "500": 43.142,
+    "1000": 86.089
+  },
+  "out_dir": "/tmp/run_rubiks_cube_orig_sds"
+}

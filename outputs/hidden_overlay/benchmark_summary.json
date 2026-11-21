@@ -1,0 +1,60 @@
+[
+  {
+    "method": "orig_sd14_sds",
+    "task": "hidden_overlay",
+    "load_s": 8.583,
+    "num_iters": 2000,
+    "total_s": 166.188,
+    "ms_per_iter": 83.09,
+    "est_10k_iters_s": 830.94,
+    "snapshots_s": {
+      "500": 42.036,
+      "1000": 83.363,
+      "2000": 166.034
+    },
+    "out_dir": "/tmp/run_hidden_overlay_orig_sds",
+    "saved_dir": "/home/devesh/projects/ambigram/outputs/hidden_overlay/orig_sds"
+  },
+  {
+    "method": "fast_sds_taesd_dtl_sana_sprint",
+    "task": "hidden_overlay",
+    "sds_load_s": 85.004,
+    "sds_iters": 350,
+    "sds_s": 23.124,
+    "dtl_load_s": 33.293,
+    "dtl_s": 10.931,
+    "total_opt_s": 34.055,
+    "out_dir": "/tmp/run_hidden_overlay_fast_sds_dtl",
+    "saved_dir": "/home/devesh/projects/ambigram/outputs/hidden_overlay/fast_sds_dtl"
+  },
+  {
+    "method": "sana_sprint_zeroshot",
+    "task": "hidden_overlay",
+    "steps": 2,
+    "size": 1024,
+    "load_s": 33.44,
+    "gen_s": 3.626,
+    "out_dir": "/tmp/run_hidden_overlay_sana_sprint",
+    "saved_dir": "/home/devesh/projects/ambigram/outputs/hidden_overlay/sana_sprint"
+  },
+  {
+    "method": "flux2_klein_zeroshot",
+    "task": "hidden_overlay",
+    "steps": 4,
+    "size": 512,
+    "load_s": 24.945,
+    "gen_s": 3.083,
+    "out_dir": "/tmp/run_hidden_overlay_flux2_klein",
+    "saved_dir": "/home/devesh/projects/ambigram/outputs/hidden_overlay/flux2_klein"
+  },
+  {
+    "method": "iris3b_turbo_zeroshot",
+    "task": "hidden_overlay",
+    "steps": 4,
+    "size": 1024,
+    "load_s": 27.628,
+    "gen_s": 6.08,
+    "out_dir": "/tmp/run_hidden_overlay_iris3b_turbo",
+    "saved_dir": "/home/devesh/projects/ambigram/outputs/hidden_overlay/iris3b_turbo"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "method": "flux2_klein_zeroshot",
+  "task": "hidden_overlay",
+  "steps": 4,
+  "size": 512,
+  "load_s": 24.945,
+  "gen_s": 3.083,
+  "out_dir": "/tmp/run_hidden_overlay_flux2_klein"
+}

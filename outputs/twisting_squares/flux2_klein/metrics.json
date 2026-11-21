@@ -1,0 +1,10 @@
+{
+  "method": "flux2_klein_zeroshot",
+  "task": "twisting_squares",
+  "steps": 4,
+  "size": 512,
+  "pixel_reconcile": true,
+  "load_s": 19.791,
+  "gen_s": 2.402,
+  "out_dir": "/tmp/run_twisting_squares_flux2_klein"
+}

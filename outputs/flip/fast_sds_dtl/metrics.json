@@ -1,0 +1,11 @@
+{
+  "method": "fast_sds_taesd_dtl_none",
+  "task": "flip",
+  "sds_load_s": 67.841,
+  "sds_iters": 350,
+  "sds_s": 8.933,
+  "dtl_load_s": 0.0,
+  "dtl_s": 0.0,
+  "total_opt_s": 8.933,
+  "out_dir": "/tmp/run_flip_fast_sds_dtl"
+}

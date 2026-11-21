@@ -1,0 +1,11 @@
+{
+  "method": "fast_sds_taesd_dtl_sana_sprint",
+  "task": "rotation_overlay",
+  "sds_load_s": 91.703,
+  "sds_iters": 350,
+  "sds_s": 16.789,
+  "dtl_load_s": 13.28,
+  "dtl_s": 7.094,
+  "total_opt_s": 23.883,
+  "out_dir": "/tmp/run_rotation_overlay_fast_sds_dtl"
+}
